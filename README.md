@@ -52,6 +52,9 @@ Access Minikube Services
 
 minikube service <service-name> -n my-namespace
 
+![Screenshot (274)](https://github.com/cloudmoh/minikube-setup/assets/126796948/ebdc971b-9cf1-4cd2-a90f-f9cca861c48c)
+
+
 
 
 
